@@ -60,7 +60,7 @@ const Footer = () => {
             {/* social icons */}
             <div className="flex flex-col space-y-6 py-3">
               <div className="flex space-x-4 justify-start items-center">
-                <a href="https://chat.whatsapp.com/FQSKgJ5f1eIAhlyF5sVym0">
+                <a href="http://wa.me/+17754476761">
                   <FaWhatsapp
                     size={25}
                     className="cursor-pointer hover:text-primary hover:scale-105 duration-200"

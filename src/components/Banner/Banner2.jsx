@@ -25,10 +25,10 @@ const Banner2 = () => {
               positive function . . . .
             </p>
             <a
-              href="https://chat.whatsapp.com/FQSKgJ5f1eIAhlyF5sVym0"
+              href="https://www.facebook.com/juliadrworldwide21?mibextid=LQQJ4d"
               className="primary-btn !mt-8"
             >
-              Join Now
+              FACEBOOK LINK
             </a>
           </div>
         </motion.div>

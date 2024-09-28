@@ -48,12 +48,12 @@ const Hero = () => {
               animate="animate"
               className="flex justify-center md:justify-start"
             >
-              <button className="primary-btn flex items-center gap-2 group">
-                <a href="https://chat.whatsapp.com/FQSKgJ5f1eIAhlyF5sVym0">
+              <a href="http://wa.me/+17754476761">
+                <button className="primary-btn flex items-center gap-2 group">
                   Get Started
-                </a>
-                <IoIosArrowRoundForward className="text-xl group-hover:translate-x-2 group-hover:-rotate-45 duration-300" />
-              </button>
+                  <IoIosArrowRoundForward className="text-xl group-hover:translate-x-2 group-hover:-rotate-45 duration-300" />
+                </button>
+              </a>
             </motion.div>
           </div>
         </div>
